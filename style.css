@@ -54,3 +54,7 @@ body, html {
 .container2 button:hover {
     cursor: pointer;
 }
+.container2 button:active {
+    background-color: rgb(127, 175, 204);
+}
+
